@@ -1,7 +1,8 @@
+Python Practice 🐍
+Welcome to my Python learning journey!
 
-DAY 1
-#Student information
-#Product detail
-#Basic Calculation
-#Employee Detail
-#Book Detail
+About
+This repository contains my daily Python practice programs. I am learning Python step by step and uploading my progress on GitHub.
+
+Topics Covered
+
