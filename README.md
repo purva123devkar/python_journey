@@ -50,3 +50,20 @@ This repository contains my daily Python practice programs.
 - Sum of Numbers
 - Count Digits
 - Reverse Number
+
+हो 👍 तुझ्या आधीच्या README format प्रमाणे **Day 6 – Lists & Tuples**:
+
+### Day 06
+
+* Lists
+
+  * Create a List
+  * Sum of List
+  * Even Numbers from List
+  * Largest Number
+* Tuples
+
+  * Create a Tuple
+  * Access Tuple Elements
+  * Find Tuple Length
+
