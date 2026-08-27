@@ -51,8 +51,6 @@ This repository contains my daily Python practice programs.
 - Count Digits
 - Reverse Number
 
-हो 👍 तुझ्या आधीच्या README format प्रमाणे **Day 6 – Lists & Tuples**:
-
 ### Day 06
 
 * Lists
