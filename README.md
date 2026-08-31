@@ -65,3 +65,17 @@ This repository contains my daily Python practice programs.
   * Access Tuple Elements
   * Find Tuple Length
 
+### Day 08
+
+* List Practice
+
+  * Positive Numbers
+  * Length of List Items
+  * Sum of Odd Numbers
+  * Reverse a List
+
+* Tuple Practice
+
+  * Length of Tuple Items
+  * Access Tuple Elements by Index
+
